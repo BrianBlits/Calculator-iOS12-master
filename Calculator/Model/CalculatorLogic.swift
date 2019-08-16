@@ -2,7 +2,7 @@
 //  CalculatorLogic.swift
 //  Calculator
 //
-//  Created by Brian Lapeyrouse on 8/15/19.
+//  Created by Brian Lapeyrouse on 8/15/2019.
 //  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
